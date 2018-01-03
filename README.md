@@ -4,6 +4,9 @@ Korektor gramatyczny języka Polskiego zbudowany na polimorfie
 
 [Zadanie 2](https://obrebski.faculty.wmi.amu.edu.pl/ptx/ptx-c-6.html)
 
+[Dokumentacja](http://www.openfst.org/twiki/bin/view/GRM/ThraxQuickTour)
+
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
